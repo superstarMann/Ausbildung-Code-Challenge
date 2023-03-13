@@ -1,6 +1,5 @@
 import React from 'react';
 
-//이부분은 몰라
 const DELIMITER = ',';
 const APOSTROPHE = '"';
 
@@ -35,7 +34,6 @@ export const handleUpload = (e, setCsvObject) => {
 }
 
 
-// 이부분은 몰라서 코드를 그대로 복사했습니다. 찾은 과정에서 해당 코드를 찾아냈다.
 export const mySplit = (line, delimiter, ignore) => {
     let spt = [];
     let tmp = "";
