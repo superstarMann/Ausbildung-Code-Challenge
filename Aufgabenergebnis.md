@@ -6,7 +6,7 @@ Folgende Technologien / Frameworks setze ich in meinem Projekt ein:
 
 Warum hast du dich für diese Technologie(n) / Sprache(n) entschieden
 
-- ReactJS verfügt über Funktionen, die die Integration mit anderen libraries und Frameworks erleichtern und die Webentwicklung vereinfachen. Dies erleichterte die Erstellung einer Website. Darüber hinaus haben verschiedene Technologien wie useEffect und useState dazu beigetragen, die Entwicklung zu vereinfachen. Deshalb habe ich diese Sprache gewählt
+- ReactJS verfügt über Funktionen, die die Integration mit anderen libraries und Frameworks erleichtern und die Webentwicklung vereinfachen. Dies erleichterte die Erstellung einer Website. Darüber hinaus haben verschiedene Technologien wie "axios, useQuery,useHistory, useEffect und useState usw." dazu beigetragen, die Entwicklung zu vereinfachen. Deshalb habe ich diese Sprache gewählt.
 
 
 Wie sicher bist du im Umgang mit den ausgewählen Sprache(n) / Technologie(n)
