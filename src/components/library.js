@@ -34,6 +34,10 @@ export const handleUpload = (e, setCsvObject) => {
 }
 
 
+
+
+// Der folgende Code wurde mit Hilfe eines Freundes erstellt.
+
 export const mySplit = (line, delimiter, ignore) => {
     let spt = [];
     let tmp = "";
@@ -67,7 +71,7 @@ export const mySplit = (line, delimiter, ignore) => {
     return spt;
   }
   
-
+// Der folgende Code wurde mit Hilfe eines Freundes erstellt.
 export const parsingCsv = (file, setCsvObject) => {
   let height, width;
   let obj = {
